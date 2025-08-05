@@ -5,3 +5,4 @@ face_recognition
 opencv-python 
 numpy 
 sqlalchemy
+streamlit-extras
